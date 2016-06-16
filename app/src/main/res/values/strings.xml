@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PAP</string>
+
+    <string name="navigation_drawer_open">Abrir Painel Lateral</string>
+    <string name="navigation_drawer_close">Fechar Painel Lateral</string>
+
+    <string name="action_settings">Opções</string>
+</resources>
