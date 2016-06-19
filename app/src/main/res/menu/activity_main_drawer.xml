@@ -4,7 +4,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_local_movies_black_24dp"
+            android:icon="@drawable/ic_movies_24dp"
             android:title="Filmes" />
         <item
             android:id="@+id/nav_gallery"
@@ -12,11 +12,11 @@
             android:title="Series" />
     </group>
 
-    <item android:title="Communicate">
+    <item android:title="Comunicação">
         <menu>
             <item
                 android:id="@+id/nav_share"
-                android:icon="@drawable/ic_share_black_24dp"
+                android:icon="@drawable/ic_share_24dp"
                 android:title="Partilhar" />
         </menu>
     </item>
