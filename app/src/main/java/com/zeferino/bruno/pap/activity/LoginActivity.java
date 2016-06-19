@@ -8,21 +8,23 @@ import android.widget.Button;
 
 import com.zeferino.bruno.pap.R;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+
 /**
  * Created by Bruno on 15/06/2016.
  */
 public class LoginActivity extends AppCompatActivity {
 
-    private Button btn1;
-    private Button btn2;
+    @BindView(R.id.btn1) Button btn1;
+    @BindView(R.id.btn2) Button btn2;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        btn1 = (Button) findViewById(R.id.btn1);
-        btn2 = (Button) findViewById(R.id.btn2);
+        ButterKnife.bind(this);
 
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
