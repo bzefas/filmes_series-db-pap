@@ -1,7 +1,8 @@
 # filmes_series-db-pap
 Aplicação criada no âmbito de Projeto Final do Curso de Técnico de Informática de Gestão
 
-[Imgur](http://i.imgur.com/bOuAeZE.png)
+[Imgur](http://i.imgur.com/bOuAeZE.png).
+<blockquote class="imgur-embed-pub" lang="en" data-id="bOuAeZE"><a href="//imgur.com/bOuAeZE">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Créditos:
 
