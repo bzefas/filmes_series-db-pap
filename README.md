@@ -5,26 +5,13 @@
 
 ###### Créditos:
 - [Android Studio](https://developer.android.com/studio/index.html)
-
-- https://developer.android.com/studio/index.html
-Android Studio
-- http://www.oracle.com/technetwork/java/javase/downloads/index.html
-Java JDK 
-- https://github.com/nostra13/Android-Universal-Image-Loader
-Android Universal Image 
-- https://github.com/bluejamesbond/TextJustify-Android
-Blue James Bond Text Justify 
-- http://robolectric.org
-Robolectric Framework 
-- https://www.hockeyapp.net/features
-Hockey SDK 
-- https://square.github.io/okhttp
-OkHttp 
-- https://design.google.com/icons
-Google Official Icons 
-- https://stackoverflow.com 
-Stack Overflow
-- https://android-arsenal.com
-Android Arsenal
-- https://romannurik.github.io/AndroidAssetStudio/index.html
-Android Asset Studio 
+- [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [Android Universal Image ](https://github.com/nostra13/Android-Universal-Image-Loader)
+- [Blue James Bond Text Justify ](https://github.com/bluejamesbond/TextJustify-Android)
+- [Robolectric Framework ](http://robolectric.org)
+- [Hockey SDK ](https://www.hockeyapp.net/feature)
+- [OkHttp](https://developer.android.com/studio/index.html)
+- [Google Official Icons](https://design.google.com/icons)
+- [Stack Overflow](https://stackoverflow.com)
+- [Android Arsenal](https://android-arsenal.com)
+- [Android Asset Studio (https://romannurik.github.io/AndroidAssetStudio/index.html)
