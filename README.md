@@ -4,6 +4,7 @@
 <img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>
 
 ###### Créditos:
+- [Android Studio](https://developer.android.com/studio/index.html)
 
 - https://developer.android.com/studio/index.html
 Android Studio
