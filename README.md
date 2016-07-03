@@ -5,7 +5,7 @@
 
 ###### Créditos:
 
-Android Studio 
+Android Studio
 - https://developer.android.com/studio/index.html
 Java JDK 
 - http://www.oracle.com/technetwork/java/javase/downloads/index.html
