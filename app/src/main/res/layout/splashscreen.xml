@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".Splash">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:id="@+id/textView"
+            android:layout_above="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:phoneNumber="false"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:id="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="25dp"
+            android:src="@drawable/popdroid"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="false" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/developer"
+            android:id="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:phoneNumber="false"
+            android:textSize="30sp"
+            android:layout_below="@+id/imageView" />
+
+    </RelativeLayout>
+</LinearLayout>

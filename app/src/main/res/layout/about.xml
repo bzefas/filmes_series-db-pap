@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ext="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/aboutBackground"
+    android:paddingTop="?attr/actionBarSize">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Intro"
+            android:id="@+id/textViewIntro"
+            android:textSize="14dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:layout_gravity="left"
+            android:textColor="@color/aboutTitle" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/credits"
+            android:id="@+id/textViewCredits"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="4dp"
+            android:textColor="@color/aboutTitle" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/android_studio"
+            android:id="@+id/textViewAS"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/android_studio_url"
+            android:id="@+id/textViewAS2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="4dp"
+            android:textColor="@color/aboutText"
+            android:textIsSelectable="true"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/java"
+            android:id="@+id/textViewJava"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/java_url"
+            android:id="@+id/textViewJava2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/uil"
+            android:id="@+id/textViewUIL"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/uil_url"
+            android:id="@+id/textViewUIL2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bluejamesbond"
+            android:id="@+id/textViewBJB"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bluejamesbond_url"
+            android:id="@+id/textViewBJB2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/robolectric"
+            android:id="@+id/textViewRF"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/robolectric_url"
+            android:id="@+id/textViewRF2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hockey"
+            android:id="@+id/textViewHSDK"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hockey_url"
+            android:id="@+id/textViewHSDK2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/okhttp"
+            android:id="@+id/textViewOk"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/okhttp_url"
+            android:id="@+id/textViewOk2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/g_icons"
+            android:id="@+id/textViewIco"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/g_icons_url"
+            android:id="@+id/textViewIco2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/com"
+            android:id="@+id/textViewCom"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/com_url1"
+            android:id="@+id/textViewCom1"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/com_url2"
+            android:id="@+id/textViewCom2"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/aboutText"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:text="@string/TMDbText"
+            android:textColor="@color/aboutText"
+            android:textSize="14dp"
+            android:id="@+id/textViewTMDB" />
+
+        <ImageView
+            android:id="@+id/tmdb"
+            android:layout_width="225dp"
+            android:layout_height="50dp"
+            android:src="@drawable/tmdb"
+            android:tag="http://themoviedb.org"
+            android:contextClickable="true"
+            android:layout_margin="8dp" />
+
+        <com.bluejamesbond.text.DocumentView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            ext:documentView_antialias="true"
+            ext:documentView_cacheConfig="auto_quality"
+            ext:documentView_insetPaddingLeft="25dp"
+            ext:documentView_insetPaddingRight="25dp"
+            ext:documentView_reverse="false"
+            ext:documentView_text="@string/TMDbLegalNotice"
+            ext:documentView_textAlignment="justified"
+            ext:documentView_textColor="@color/aboutText"
+            ext:documentView_textFormat="plain"
+            ext:documentView_textSize="13dp"
+            ext:documentView_textSubPixel="true"
+            android:fillViewport="false" />
+
+
+    </LinearLayout>
+</ScrollView>
