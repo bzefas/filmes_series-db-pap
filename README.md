@@ -2,7 +2,8 @@
 ###### Aplicação criada no âmbito de Projeto Final do Curso de Técnico de Informática de Gestão
 
 <img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>
-- [<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](https://developer.android.com/studio/index.html)
+[<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](https://developer.android.com/studio/index.html)
+
 ###### Créditos:
 - [Android Studio](https://developer.android.com/studio/index.html)
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
