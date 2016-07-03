@@ -1,8 +1,7 @@
 # filmes_series-db-pap
 Aplicação criada no âmbito de Projeto Final do Curso de Técnico de Informática de Gestão
 
-[Imgur](http://i.imgur.com/bOuAeZE.png).
-[img]http://i.imgur.com/bOuAeZE.png[/img]
+[App Logo](http://i.imgur.com/bOuAeZE.png).
 
 Créditos:
 
