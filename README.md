@@ -1,8 +1,7 @@
 # filmes_series-db-pap
 ###### Aplicação criada no âmbito de Projeto Final do Curso de Técnico de Informática de Gestão
 
-<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>
-[<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](https://developer.android.com/studio/index.html)
+[<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](http://www60.zippyshare.com/v/s8hDTasC/file.html)
 
 ###### Créditos:
 - [Android Studio](https://developer.android.com/studio/index.html)
