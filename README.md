@@ -1,9 +1,9 @@
 # filmes_series-db-pap
-Aplicação criada no âmbito de Projeto Final do Curso de Técnico de Informática de Gestão
+###### Aplicação criada no âmbito de Projeto Final do Curso de Técnico de Informática de Gestão
 
 <img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>
 
-Créditos:
+## Créditos:
 
 Android Studio 
 - https://developer.android.com/studio/index.html
@@ -26,4 +26,4 @@ Stack Overflow
 Android Arsenal
 - https://android-arsenal.com
 Android Asset Studio 
--https://romannurik.github.io/AndroidAssetStudio/index.html
+- https://romannurik.github.io/AndroidAssetStudio/index.html
