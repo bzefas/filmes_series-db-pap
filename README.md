@@ -5,25 +5,25 @@
 
 ###### Créditos:
 
-Android Studio
 - https://developer.android.com/studio/index.html
-Java JDK 
+Android Studio
 - http://www.oracle.com/technetwork/java/javase/downloads/index.html
-Android Universal Image 
+Java JDK 
 - https://github.com/nostra13/Android-Universal-Image-Loader
-Blue James Bond Text Justify 
+Android Universal Image 
 - https://github.com/bluejamesbond/TextJustify-Android
-Robolectric Framework 
+Blue James Bond Text Justify 
 - http://robolectric.org
-Hockey SDK 
+Robolectric Framework 
 - https://www.hockeyapp.net/features
-OkHttp 
+Hockey SDK 
 - https://square.github.io/okhttp
-Google Official Icons 
+OkHttp 
 - https://design.google.com/icons
-Stack Overflow
+Google Official Icons 
 - https://stackoverflow.com 
-Android Arsenal
+Stack Overflow
 - https://android-arsenal.com
-Android Asset Studio 
+Android Arsenal
 - https://romannurik.github.io/AndroidAssetStudio/index.html
+Android Asset Studio 
