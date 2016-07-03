@@ -8,13 +8,13 @@ Créditos:
 Android Studio 
 - https://developer.android.com/studio/index.html
 Java JDK 
-- http://www.oracle.com/technetwork/java/javase/downloads/index.html	https://www.oracle.com
+- http://www.oracle.com/technetwork/java/javase/downloads/index.html
 Android Universal Image 
 - https://github.com/nostra13/Android-Universal-Image-Loader
 Blue James Bond Text Justify 
 - https://github.com/bluejamesbond/TextJustify-Android
-Robolectric Framework -
-http://robolectric.org
+Robolectric Framework 
+- http://robolectric.org
 Hockey SDK 
 - https://www.hockeyapp.net/features
 OkHttp 
