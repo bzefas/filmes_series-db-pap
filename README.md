@@ -14,4 +14,4 @@
 - [Google Official Icons](https://design.google.com/icons)
 - [Stack Overflow](https://stackoverflow.com)
 - [Android Arsenal](https://android-arsenal.com)
-- [Android Asset Studio (https://romannurik.github.io/AndroidAssetStudio/index.html)
+- [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
