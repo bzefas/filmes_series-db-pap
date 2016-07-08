@@ -19,8 +19,10 @@ Livrarias
 - [Hockey SDK ](https://www.hockeyapp.net/feature)
 - [OkHttp](https://developer.android.com/studio/index.html)
 
-Ajudas e Icons
-- [Google Official Icons](https://design.google.com/icons)
-- [Stack Overflow](https://stackoverflow.com)
+Comunidades/Ajuda
 - [Android Arsenal](https://android-arsenal.com)
+- [Stack Overflow](https://stackoverflow.com)
+ 
+Icons
+- [Google Official Icons](https://design.google.com/icons)
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
