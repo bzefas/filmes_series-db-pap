@@ -26,8 +26,8 @@ Icons
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
 
 ###### Ambiente de Desenvolvimento:
-Contruído em [Android Studio](https://developer.android.com/studio/index.html) 2.0
-Ferramenta de Desenvolvimento [Java (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 8
-Ferramenta de Desenvolvimento de Software (SDK) 23.0.0
-Versão mínima, SDK 17 (Android 4.2)
-Versão alvo, SDK 23 (Android 6.0)
+- Contruído em [Android Studio](https://developer.android.com/studio/index.html) 2.0
+- Ferramenta de Desenvolvimento [Java (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 8
+- Ferramenta de Desenvolvimento de Software (SDK) 23.0.0
+- Versão mínima, SDK 17 (Android 4.2)
+- Versão alvo, SDK 23 (Android 6.0)
