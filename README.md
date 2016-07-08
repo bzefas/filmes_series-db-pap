@@ -11,11 +11,11 @@ Ambiente de Desenvolvimento
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 Livrarias
-- [Android Universal Image ](https://github.com/nostra13/Android-Universal-Image-Loader)
 - [Blue James Bond Text Justify ](https://github.com/bluejamesbond/TextJustify-Android)
-- [Parallax Scrolls  ](https://github.com/nirhart/ParallaxScroll)
-- [ObservableScrollView ](https://github.com/ksoichiro/Android-ObservableScrollView)
+- [Android Universal Image ](https://github.com/nostra13/Android-Universal-Image-Loader)
 - [Robolectric Framework ](http://robolectric.org)
+- [ObservableScrollView ](https://github.com/ksoichiro/Android-ObservableScrollView)
+- [Parallax Scrolls ](https://github.com/nirhart/ParallaxScroll)
 - [Hockey SDK ](https://www.hockeyapp.net/feature)
 - [OkHttp](https://developer.android.com/studio/index.html)
 
