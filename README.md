@@ -6,13 +6,18 @@ Click na Imagem para descarregar o APK.
 [<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](http://www60.zippyshare.com/v/s8hDTasC/file.html)
 
 ###### Créditos:
+Ambiente de Desenvolvimento
 - [Android Studio](https://developer.android.com/studio/index.html)
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+Livrarias
 - [Android Universal Image ](https://github.com/nostra13/Android-Universal-Image-Loader)
 - [Blue James Bond Text Justify ](https://github.com/bluejamesbond/TextJustify-Android)
+- [Parallax Scrolls  ](https://github.com/nirhart/ParallaxScroll)
+- [ObservableScrollView ](https://github.com/ksoichiro/Android-ObservableScrollView)
 - [Robolectric Framework ](http://robolectric.org)
 - [Hockey SDK ](https://www.hockeyapp.net/feature)
 - [OkHttp](https://developer.android.com/studio/index.html)
+Ajudas e Icons
 - [Google Official Icons](https://design.google.com/icons)
 - [Stack Overflow](https://stackoverflow.com)
 - [Android Arsenal](https://android-arsenal.com)
