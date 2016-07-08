@@ -9,6 +9,7 @@ Click na Imagem para descarregar o APK.
 Ambiente de Desenvolvimento
 - [Android Studio](https://developer.android.com/studio/index.html)
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 Livrarias
 - [Android Universal Image ](https://github.com/nostra13/Android-Universal-Image-Loader)
 - [Blue James Bond Text Justify ](https://github.com/bluejamesbond/TextJustify-Android)
@@ -17,6 +18,7 @@ Livrarias
 - [Robolectric Framework ](http://robolectric.org)
 - [Hockey SDK ](https://www.hockeyapp.net/feature)
 - [OkHttp](https://developer.android.com/studio/index.html)
+
 Ajudas e Icons
 - [Google Official Icons](https://design.google.com/icons)
 - [Stack Overflow](https://stackoverflow.com)
