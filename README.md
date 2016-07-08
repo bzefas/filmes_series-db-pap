@@ -1,6 +1,6 @@
 # Filmes e Series DB - Projecto Final de Curso
 ###### Aplicação criada no âmbito de Projeto Final do Curso de Técnico de Informática de Gestão por Bruno Zeferino.
-- •	Com o objetivo de demostrar a utilização de um "web service", [themoviedb](https://www.themoviedb.org/documentation/api), para recolher o conteúdo, oferecendo também uma interface de utilizador intuitiva para facilmente o utilizador consultar informação; filmes, pogramas de tv e atores.
+- Com o objetivo de demostrar a utilização de um "web service", [themoviedb](https://www.themoviedb.org/documentation/api), para recolher o conteúdo, oferecendo também uma interface de utilizador intuitiva para facilmente o utilizador consultar informação; filmes, pogramas de tv e atores.
 
 
 Click na Imagem para descarregar o APK.
