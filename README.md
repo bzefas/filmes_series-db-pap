@@ -15,7 +15,7 @@ Livrarias
 - [ObservableScrollView ](https://github.com/ksoichiro/Android-ObservableScrollView)
 - [Parallax Scrolls ](https://github.com/nirhart/ParallaxScroll)
 - [Hockey SDK ](https://www.hockeyapp.net/feature)
-- [OkHttp](https://developer.android.com/studio/index.html)
+- [OkHttp](https://square.github.io/okhttp/)
 
 Comunidades/Ajuda
 - [Android Arsenal](https://android-arsenal.com)
