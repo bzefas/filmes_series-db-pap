@@ -5,7 +5,7 @@
 
 Click na Imagem para descarregar o APK.
 
-[<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](http://www60.zippyshare.com/v/s8hDTasC/file.html)
+[<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](http://www27.zippyshare.com/v/WwpVBuyg/file.html)
 
 ###### Créditos:
 Livrarias
