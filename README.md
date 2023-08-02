@@ -8,7 +8,7 @@ Click na Imagem para descarregar o APK.
 [<img src="http://i.imgur.com/bOuAeZE.png" width="15%"></img>](http://www27.zippyshare.com/v/WwpVBuyg/file.html)
 
 ###### Créditos:
-Livrarias
+Bibliotecas
 - [Blue James Bond Text Justify ](https://github.com/bluejamesbond/TextJustify-Android)
 - [Android Universal Image ](https://github.com/nostra13/Android-Universal-Image-Loader)
 - [Robolectric Framework ](http://robolectric.org)
